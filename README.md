@@ -23,10 +23,9 @@ A Winamp-inspired macOS audio player with a flat, 90s cyber aesthetic.
 - macOS 13.0 (Ventura) or later
 
 ## Screenshots: Main Player, Playlist Editor, Status Bar & Combined
-![Main Player]([image1.png](https://...Ocean.png](https://github.com/user-attachments/assets/65764112-e8df-483a-9f48-7c9506c1192f) "Main Player") 
-
-![]([https://...Ocean.png](https://github.com/user-attachments/assets/ee050de4-df23-475b-9bb0-c1e606105269))
-![]([https://...Ocean.png](https://github.com/user-attachments/assets/f8c02574-b38f-4b2b-b2d2-a0c1eb086053))
+<img width="1819" height="1419" alt="allwindows" src="https://github.com/user-attachments/assets/3a1387b8-09de-4718-8349-574df1223042" />
+![]([https://github.com/user-attachments/assets/ee050de4-df23-475b-9bb0-c1e606105269]())
+![]([https://...Ocean.png](https://github.com/user-attachments/assets/f8c02574-b38f-4b2b-b2d2-a0c1eb086053]())
 
 ## Install (I didn't want to pay for Apple Developer account yet lol!)
 
