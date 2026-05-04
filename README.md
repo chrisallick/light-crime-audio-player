@@ -58,7 +58,9 @@ The 90s and early 00s were an era of personal computing, self-expression, rapid 
 
 Light Crime aims to create modern software with a cozier personal computing approach. Spotify is great. Apple Music is meh but no ICE ads, and yet... they still separate you from your media and personal space. All the tools and technologies still exist, sitting dormant, but maybe people have moved on, or recesses to small corners of the web.
 
-... Anyways, I think curating your music on your computer is fun. Making playlists is fun. And generally, just enjoying your computer rather a terminal to SaSS platforms is refreshing in 2026. Enjoy. - chris
+When I started coding it was with BASIC and Visual Basic 3. What a joy! But now, with the advent of paired programming with tools like Claude Caude, I don't have to worry about the labor intensive time suck of building something that cuts against the grain of modern technology. What I would have said "eh who is going to use that?" is replaced with "Who cares, I can spend an afternoon and be done with it." So I'm going through my backlog of software and art work I want to see in the world. And am no longer stuck in the mind trap of wondering how it fits into the current culture of social media and peopel's relationship to software.
+
+*ahem* ... Anyways, I think curating your music on your computer is fun. Making playlists is fun. And generally, just enjoying your computer rather a terminal to SaSS platforms is refreshing in 2026. Enjoy. - chris
 
 ## Coming soon!
 
