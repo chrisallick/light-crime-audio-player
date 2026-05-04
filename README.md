@@ -22,7 +22,7 @@ A Winamp-inspired macOS audio player with a flat, 90s cyber aesthetic.
 
 - macOS 13.0 (Ventura) or later
 
-## Install
+## Install (I didn't want to pay for Apple Developer account yet lol!)
 
 1. Download the latest `.dmg` from [Releases](../../releases)
 2. Open the DMG and drag **Light Crime Audio Player** to your Applications folder
