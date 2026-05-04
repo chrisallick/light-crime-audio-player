@@ -52,6 +52,14 @@ This is a one-time step per machine. The app runs normally after that.
 | Hide to menu bar | Click **×** — audio keeps playing |
 | Show player | Click the waveform icon in the menu bar |
 
+## About Light Crime
+
+The 90s and early 00s were an era of personal computing, self-expression, rapid technical expansion, the web. We were barreling forward at the speed of innovation and culture, and for a brief period, the utopia of new media and self-expression were fueled by the imagination. And then... it stopped. Hotline, KaZaa, Lime Wire, Napster, Tumblr, ICQ, AOL Messanger, IRC, Usenet, Winamp... remember WinRAR? All became irelevent really quickly, either due to legal restrictions or gutting of communities and platforms. Many artists have reflected on this, but I feel at this moment in time we're seeing that passion creep back through the cracks of the corporate chokehold on open web.
+
+Light Crime aims to create modern software with a cozier personal computing approach. Spotify is great. Apple Music is meh but no ICE ads, and yet... they still separate you from your media and personal space. All the tools and technologies still exist, sitting dormant, but maybe people have moved on, or recesses to small corners of the web.
+
+... Anyways, I think curating your music on your computer is fun. Making playlists is fun. And generally, just enjoying your computer rather a terminal to SaSS platforms is refreshing in 2026. Enjoy. - chris
+
 ## Coming soon!
 
 1. Theme editor for skinning: background images
