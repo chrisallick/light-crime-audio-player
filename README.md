@@ -22,6 +22,11 @@ A Winamp-inspired macOS audio player with a flat, 90s cyber aesthetic.
 
 - macOS 13.0 (Ventura) or later
 
+## Screenshots: Main Player, Playlist Editor
+
+<img width="732" height="1156" alt="mainplayer" src="https://github.com/user-attachments/assets/65764112-e8df-483a-9f48-7c9506c1192f" />
+<img width="732" height="1092" alt="playlisteditor" src="https://github.com/user-attachments/assets/ee050de4-df23-475b-9bb0-c1e606105269" />
+
 ## Install (I didn't want to pay for Apple Developer account yet lol!)
 
 1. Download the latest `.dmg` from [Releases](../../releases)
@@ -46,6 +51,12 @@ This is a one-time step per machine. The app runs normally after that.
 | Playlists | Click **Playlists** in the toolbar |
 | Hide to menu bar | Click **×** — audio keeps playing |
 | Show player | Click the waveform icon in the menu bar |
+
+## Coming soon!
+
+1. Theme editor for skinning: background images
+2. Visualizer
+3. Internet radio support.
 
 ## Not Yet Supported
 
