@@ -36,9 +36,12 @@ When I started coding it was with BASIC and Visual Basic 3. What a joy! But now,
 - Hardware media key support (play/pause/next/prev F-keys)
 - Now Playing integration (lock screen, Control Center)
 - Shuffle with Fisher-Yates, previous-track restart threshold
+- Loop mode — loop all or loop one track
+- Drag-to-reorder tracks in the queue and inside playlists
 - Drag-and-drop folders or files to add music
 - Missing file detection — tracks turn red if moved, tap to re-link
 - Playlist manager — create, load, and edit named playlists
+- Window title brightens when the app is focused, dims when it's not
 - Persistent library and playlists across restarts
 
 ## Requirements
@@ -72,6 +75,8 @@ This is a one-time step per machine. The app runs normally after that.
 | Next / Prev | Click arrows, press **← →**, or use media keys |
 | Seek | Drag the scrubber bar |
 | Shuffle | Click the shuffle icon in the transport row |
+| Loop | Click the loop icon — cycles off → loop all → loop one |
+| Reorder queue | Hover a track to reveal the drag handle, then drag |
 | Playlists | Click **Playlists** in the toolbar |
 | Hide to menu bar | Click **×** — audio keeps playing |
 | Show player | Click the waveform icon in the menu bar |
