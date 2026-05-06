@@ -41,8 +41,10 @@ When I started coding it was with BASIC and Visual Basic 3. What a joy! But now,
 - Drag-and-drop folders or files to add music
 - Missing file detection — tracks turn red if moved, tap to re-link
 - Playlist manager — create, load, and edit named playlists
+- Audio visualizer — 7 modes: Spectrum Bars, Waveform Scope, Radial Spectrum, Audio Starfield, Frequency Mountains, Beat Tunnel, Starfield
+- Theme editor — 5 built-in presets (Default, Amber, Phosphor, Rose, Slate) + custom color creator
 - Window title brightens when the app is focused, dims when it's not
-- Persistent library and playlists across restarts
+- Persistent library, playlists, and theme across restarts
 
 ## Requirements
 
@@ -78,14 +80,16 @@ This is a one-time step per machine. The app runs normally after that.
 | Loop | Click the loop icon — cycles off → loop all → loop one |
 | Reorder queue | Hover a track to reveal the drag handle, then drag |
 | Playlists | Click **Playlists** in the toolbar |
+| Visualizer | Click **Visualizer** in the toolbar |
+| Change theme | Click **Theme** in the toolbar |
 | Hide to menu bar | Click **×** — audio keeps playing |
 | Show player | Click the waveform icon in the menu bar |
 
 ## Coming soon!
 
-1. Theme editor for skinning: background images
-2. Visualizer
-3. Internet radio support.
+1. Internet radio support
+2. Album art in the now-playing header
+3. EQ
 
 ## Not Yet Supported
 
